@@ -20,5 +20,3 @@ apache配置应该是
      DocumentRoot "D:\www\tpshop2.0\"
      ServerName www.tpshop.cn
 </VirtualHost>
-
-如果还有什么不懂的到tpshop官网下载页面 下载看安装视频教程
